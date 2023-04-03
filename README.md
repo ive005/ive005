@@ -58,3 +58,9 @@ Here are some ideas to get you started:
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+<p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/entities/{{ive005}}/contributions?format=svg" width="350" />
+  </a>
+</p>
