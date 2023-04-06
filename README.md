@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://api.vaunt.dev/entities/{{ive005}}/contributions?format=svg" width="350" />
+<img src="https://api.vaunt.dev/entities/ive005/contributions?format=svg" width="350" />
 
