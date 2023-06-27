@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://api.vaunt.dev/entities/ive005/contributions?format=svg" width="350" />
-
-<p>
-  <a href="https://vaunt.dev">
-    <img src="https://api.vaunt.dev/v1/github/entities/ive005/achievements?format=svg" width="350" />
-  </a>
-</p>
